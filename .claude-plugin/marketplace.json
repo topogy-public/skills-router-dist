@@ -1,0 +1,19 @@
+{
+  "name": "topogy-router",
+  "owner": {
+    "name": "Topogy"
+  },
+  "description": "Topogy skills & context router \u2014 distribution channel.",
+  "plugins": [
+    {
+      "name": "skills-router",
+      "source": {
+        "source": "archive",
+        "url": "https://github.com/topogy-public/skills-router-dist/releases/download/v0.5.2/skills-router-0.5.2.zip",
+        "sha256": "1743c96960681c08eb533dd7edbefdc2b96f5e5bddfeac4fff6dd7abefa02800"
+      },
+      "version": "0.5.2",
+      "description": "Topogy skills & context router 0.5.2"
+    }
+  ]
+}
