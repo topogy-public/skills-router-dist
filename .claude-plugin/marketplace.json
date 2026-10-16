@@ -8,12 +8,11 @@
     {
       "name": "skills-router",
       "source": {
-        "source": "archive",
-        "url": "https://github.com/topogy-public/skills-router-dist/releases/download/v0.7.0/skills-router-0.7.0.zip",
-        "sha256": "4f9ee7ce13c126f258b290247f01187469fca0c10460afc5c7b862793f23d628"
+        "source": "url",
+        "url": "https://github.com/topogy-public/skills-router-dist.git",
+        "ref": "latest"
       },
-      "version": "0.7.0",
-      "description": "Topogy skills & context router 0.7.0"
+      "description": "Topogy skills & context router"
     }
   ]
 }
