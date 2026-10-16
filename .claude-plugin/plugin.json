@@ -1,0 +1,13 @@
+{
+  "name": "skills-router",
+  "description": "Router runtime: catches workflow moments as a session unfolds and enacts the right skill or context — by nudge, hard gate, or inline injection.",
+  "version": "1.0.0",
+  "author": { "name": "Topogy" },
+  "keywords": ["router", "skills", "workflows", "context", "governance"],
+  "mcpServers": {
+    "router": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/hooks/mcp_server.py"]
+    }
+  }
+}
